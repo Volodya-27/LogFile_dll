@@ -1,0 +1,6 @@
+C:\Users\linec\source\repos\Loger\LogerLib\bin\Debug\LogerLib.dll
+C:\Users\linec\source\repos\Loger\LogerLib\bin\Debug\LogerLib.pdb
+C:\Users\linec\source\repos\Loger\LogerLib\obj\Debug\LogerLib.csprojAssemblyReference.cache
+C:\Users\linec\source\repos\Loger\LogerLib\obj\Debug\LogerLib.csproj.CoreCompileInputs.cache
+C:\Users\linec\source\repos\Loger\LogerLib\obj\Debug\LogerLib.dll
+C:\Users\linec\source\repos\Loger\LogerLib\obj\Debug\LogerLib.pdb

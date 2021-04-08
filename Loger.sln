@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loger", "Loger\Loger.csproj", "{88D90364-50A9-48FD-9045-9AB2C7D440DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogerLib", "LogerLib\LogerLib.csproj", "{68A21014-D289-4AB8-A83A-A8D951D8F259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D90364-50A9-48FD-9045-9AB2C7D440DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D90364-50A9-48FD-9045-9AB2C7D440DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D90364-50A9-48FD-9045-9AB2C7D440DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D90364-50A9-48FD-9045-9AB2C7D440DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A21014-D289-4AB8-A83A-A8D951D8F259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A21014-D289-4AB8-A83A-A8D951D8F259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A21014-D289-4AB8-A83A-A8D951D8F259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A21014-D289-4AB8-A83A-A8D951D8F259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD67C763-CA53-4263-822E-81D4BD388EAB}
+	EndGlobalSection
+EndGlobal
